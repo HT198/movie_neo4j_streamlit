@@ -4,9 +4,9 @@ from neo4j import GraphDatabase
 # --------------------------
 # 在这里填入你的 Neo4j Aura 信息
 # --------------------------
-NEO4J_URI = "neo4j+s://9941d4b7.databases.neo4j.io"
-NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "LzrXQL2005011354321v"
+NEO4J_URI = "neo4j+s://6356f654.databases.neo4j.io"
+NEO4J_USER = "6356f654"
+NEO4J_PASSWORD = "tWlgeJ53UuGAVEsvL6CsiARjBldh_93S2mHq7kETzfI"
 
 # 连接数据库
 @st.cache_resource
