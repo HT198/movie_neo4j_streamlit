@@ -6,7 +6,7 @@ from neo4j import GraphDatabase
 # --------------------------
 NEO4J_URI = "neo4j+s://9941d4b7.databases.neo4j.io"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "7csjZQZKqIP2vKNMO3KknjoKDzhA-n1vCnpw6pwG-ug"
+NEO4J_PASSWORD = "LzrXQL2005011354321v"
 
 # 连接数据库
 @st.cache_resource
